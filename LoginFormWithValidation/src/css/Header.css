@@ -1,0 +1,14 @@
+.login-header{
+    margin-left: 80px;
+   
+}
+
+.login-logo{
+    width: 50px;
+    height: 25px;
+    margin-top: 43px;
+}
+
+.login-logo:hover{
+    cursor: pointer;
+}
